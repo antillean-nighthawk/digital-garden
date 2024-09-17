@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/general/","tags":["ctf","general"],"created":"2024-09-16T18:25:59.303-07:00","updated":"2024-09-16T18:43:31.199-07:00"}
+{"dg-publish":true,"permalink":"/content/general/","tags":["ctf","general"],"created":"2024-09-16T18:25:59.303-07:00","updated":"2024-09-16T19:28:28.378-07:00"}
 ---
 
 anything not enough to warrant its own category goes here
@@ -23,9 +23,3 @@ anything not enough to warrant its own category goes here
 - [Explain CLI commands](https://explainshell.com/)
 - [Search website source code](https://publicwww.com/)
 - [Advanced awk/sed usage](https://posts.specterops.io/fawk-yeah-advanced-sed-and-awk-usage-parsing-for-pentesters-3-e5727e11a8ad)
-
-## Reading list
-- [Cybersecurity Canon](https://icdt.osu.edu/cybercanon/bookreviews) is OSU's list of the most influential books in cybersec
-- [DFIR Diva](https://dfirdiva.com/) is the best DFIR resource on the net (in my opinion)
-- [DNS Privacy Project](https://dnsprivacy.org/)
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#manualshowtostutorials-toc)

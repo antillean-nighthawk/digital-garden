@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-09-16T17:07:06.856-07:00","updated":"2024-09-16T18:11:18.804-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-09-16T17:07:06.856-07:00","updated":"2024-09-16T19:27:37.669-07:00"}
 ---
 
 # Hey
@@ -15,7 +15,7 @@ I am trying a note taking technique called [Zettelkasten.](https://zettelkasten.
 ---
 
 ## Navigation
-
-[[Main/CTF\|CTF]]
-
-[[Main/Forensics\|Forensics]]
+start at the very broad, top level topics
+- #### 🚩 [[Main/CTF\|CTF]]
+- #### 🔎 [[Main/Forensics\|Forensics]]
+- #### 📗 [[Main/Reading\|Reading]]
