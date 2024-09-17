@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/osint/","tags":["osint","ctf"]}
+{"dg-publish":true,"permalink":"/content/osint/","tags":["osint","ctf"],"created":"2024-09-16T18:19:15.722-07:00","updated":"2024-09-16T18:43:25.584-07:00"}
 ---
 
-# OSINT
+
 
 > [!NOTE] Note
 Everything here should be free or freemium. Some services may require an account but it is useful to make some sockpuppets (fake accounts) specifically for OSINT purposes. Despite the info being available on the clear web, it is still a good idea to use a virtual machine and sockpuppet accounts so the investigation cannot be traced back to you.

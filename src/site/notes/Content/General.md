@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/general/","tags":["ctf","general"]}
+{"dg-publish":true,"permalink":"/content/general/","tags":["ctf","general"],"created":"2024-09-16T18:25:59.303-07:00","updated":"2024-09-16T18:43:31.199-07:00"}
 ---
 
 anything not enough to warrant its own category goes here
-# General/Misc
+
 - `exiftool` metadata
 - use `strings` and `grep -i` for flag
 	- `quantumstrands` is a more advanced alternative to `strings`

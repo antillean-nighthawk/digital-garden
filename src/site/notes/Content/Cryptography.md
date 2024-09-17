@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/cryptography/","tags":["crypto","ctf"]}
+{"dg-publish":true,"permalink":"/content/cryptography/","tags":["crypto","ctf"],"created":"2024-09-16T18:16:30.320-07:00","updated":"2024-09-16T18:43:35.181-07:00"}
 ---
 
 
-# Cryptography
 - character frequency analysis
 - data representations: ASCII, HTML encoded chars, base64, hex, etc
 - rainbow tables 🌈 (precomputed hashes)

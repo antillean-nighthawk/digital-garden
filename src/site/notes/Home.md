@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-09-16T17:07:06.856-07:00","updated":"2024-09-16T18:11:18.804-07:00"}
 ---
 
 # Hey
@@ -18,4 +18,4 @@ I am trying a note taking technique called [Zettelkasten.](https://zettelkasten.
 
 [[Main/CTF\|CTF]]
 
-[[Forensics\|Forensics]]
+[[Main/Forensics\|Forensics]]
