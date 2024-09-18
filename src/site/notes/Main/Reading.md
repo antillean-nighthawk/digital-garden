@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/main/reading/","tags":["forensics","reading","ctf"],"created":"2024-09-16T19:27:41.452-07:00","updated":"2024-09-16T19:33:59.162-07:00"}
+{"dg-publish":true,"permalink":"/main/reading/","tags":["forensics","reading","ctf"],"created":"2024-09-16T19:27:41.452-07:00","updated":"2024-09-17T23:31:57.663-07:00"}
 ---
 
 ### Books
 - [Cybersecurity Canon](https://icdt.osu.edu/cybercanon/bookreviews) is OSU's list of the most influential books in cybersec
 - *r/computerforensics* has a large reading list in their [wiki](https://www.reddit.com/r/computerforensics/wiki/resources)
+	- [[Content/Book Progress\|Track reading progress]]
 
 ### Websites
 - [DFIR Diva](https://dfirdiva.com/) is the best DFIR resource on the net (in my opinion)
