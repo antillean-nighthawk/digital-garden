@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/main/ctf/","tags":["ctf"],"created":"2024-09-16T17:45:50.790-07:00","updated":"2024-09-17T23:34:09.526-07:00"}
+{"dg-publish":true,"permalink":"/main/ctf/","tags":["ctf"]}
 ---
+
 
 ### Topics relevant to CTFs
 ---

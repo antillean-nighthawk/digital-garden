@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/structure/files/","tags":["file","forensics"],"created":"2024-09-16T18:46:26.905-07:00","updated":"2024-09-16T18:51:00.042-07:00"}
+{"dg-publish":true,"permalink":"/structure/files/","tags":["file","forensics"]}
 ---
+
 
 
 Techniques broken down into categories by filetype

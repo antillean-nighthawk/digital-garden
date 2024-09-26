@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/main/forensics/","tags":["forensics"],"created":"2024-09-16T18:30:26.652-07:00","updated":"2024-09-16T18:46:24.010-07:00"}
+{"dg-publish":true,"permalink":"/main/forensics/","tags":["forensics"]}
 ---
+
 
 #### Topics by OS: [[Structure/Windows\|Windows]]
 #### Topics by [[Structure/Files\|filetype]]

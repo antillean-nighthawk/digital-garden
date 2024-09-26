@@ -1,8 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/content/osint/","tags":["osint","ctf"],"created":"2024-09-16T18:19:15.722-07:00","updated":"2024-09-16T18:43:25.584-07:00"}
+{"dg-publish":true,"permalink":"/content/osint/","tags":["osint","ctf"]}
 ---
 
+> [!DANGER] Evidence
+> Screenshots need evidence of authenticity to be court admissible
+> Use tools such as [pagefreezer](https://www.pagefreezer.com/) to capture web evidence
 
+## Photos
+
+See [[Content/Image#Image Content\|Image#Image Content]]
+
+> [!Warning] Downloading images
+> Usually right clicking will let you open images in a new tab. If not, search through the HTML for a image link, which might be in something like ```style="background-image: url(blahblah)"``` for example.
+# Resources
 
 > [!NOTE] Note
 Everything here should be free or freemium. Some services may require an account but it is useful to make some sockpuppets (fake accounts) specifically for OSINT purposes. Despite the info being available on the clear web, it is still a good idea to use a virtual machine and sockpuppet accounts so the investigation cannot be traced back to you.
@@ -51,10 +61,25 @@ Everything here should be free or freemium. Some services may require an account
 - https://intelx.io/
 - https://haveibeenpwned.com/
 - https://ddosecrets.com/
+- pastebins
+	- http://pastes.io/
+	- https://pastebin.com/
+	- https://cipher387.github.io/pastebinsearchengines/
+
+## Username search
+- https://namechk.com/
+- https://instantusername.com/
+- https://www.username.social/
 
 ## Specific sites
 - open FTP index: https://www.mmnt.net/
 - live cams: http://www.insecam.org/
+- deleted Reddit content: https://www.reveddit.com/
+
+## Google dorks
+- Reddit
+	- ```site:reddit.com/r/[subreddit] inurl:”comments” [keyword]```
+	- ```site:reddit.com r/[subreddit] [keyword] ```
 
 ## Other people's OSINT collections
 there's way wayyyy more stuff out there, mostly on start.me or Github
@@ -83,5 +108,4 @@ there's way wayyyy more stuff out there, mostly on start.me or Github
 	- country specific search engines (Baidu, Yandex, etc.)
 	- topic specific search (Github, FlightAware, VintageFashionGuild, etc)
 - publications: research papers, newspapers/sites, gray literature, blogs, whitepapers
-- geospatial: Google Earth, maps/satellite, reverse image search, languages, landmarks, weather, flora/fauna
 - historial artifacts: Wayback Machine, Internet Archive, cached pages, screenshots/images

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/content/image/","tags":["image","forensics","ctf","file"],"created":"2024-09-16T18:59:12.536-07:00","updated":"2024-09-16T19:02:35.648-07:00"}
+{"dg-publish":true,"permalink":"/content/image/","tags":["image","forensics","ctf","file"]}
 ---
+
 
 
 ### png, jpg, jpeg
@@ -34,16 +35,20 @@ https://github.com/frankthetank-music/Acropalypse-Multi-Tool/
 
 ## Visual Edits
 - try zooming in or out a lot (~200-300% to avoid false positives)
-- scale, shadow or perspective errors indicate Photoshop
-- airbrushing, shine or repeating patterns indicate AI generated
+	- image enlargers: [letsenchance](https://letsenhance.io/), [Upscale Media](https://www.upscale.media/)
 - change brightness, saturation, opacity etc
-- reverse image search: [Yandex](https://yandex.com/images/), [Tineye](https://tineye.com/), [Google](https://images.google.com/)
 - use Gimp or ImageMagick
+- Ruby script to highlight colors: https://pastebin.com/46VmzrRU
+
+## Image Content
 - depixelate text with [Depix](https://github.com/spipm/Depix)
 - facial recognition: https://facecheck.id/
+- reverse image search: [Yandex](https://yandex.com/images/), [Tineye](https://tineye.com/), [Google](https://images.google.com/)
+- Google Earth/maps/satellite for finding places or geospatial indicators (languages, landmarks, weather, flora/fauna)
 
-> Ruby script to highlight colors: https://pastebin.com/46VmzrRU
-
+> [!DANGER] Is it real?
+> Scale, shadow or perspective errors indicate Photoshop
+> Airbrushing, shine or repeating patterns indicate AI generated
 ## Helpful Sites
 - https://aperisolve.com/ 
 - https://georgeom.net/StegOnline/
